@@ -1,0 +1,95 @@
+.container{
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.twelve:first-child,.eleven:first-child,.ten:first-child,.nine:first-child,.eight:first-child,.seven:first-child,.six:first-child,.five:first-child,.four:first-child,.three:first-child,.two:first-child,.one:first-child{
+    margin-left: 0;
+}
+.twelve{
+    width: 100%;
+    float: left;
+    margin-left: 2%;
+}
+.eleven{
+    width: 91.5%;
+    float: left;
+    margin-left: 2%;
+}
+.ten{
+    width: 83%;
+    float: left;
+    margin-left: 2%;
+}
+.nine{
+    width: 74.5%;
+    float: left;
+    margin-left: 2%;
+}
+.eight{
+    width: 66%;
+    float: left;
+    margin-left: 2%;
+}
+.seven{
+    width: 57.5%;
+    float: left;
+    margin-left: 2%;
+}
+.six{
+    width: 49%;
+    float: left;
+    margin-left: 2%;
+}
+.five{
+    width: 40.5%;
+    float: left;
+    margin-left: 2%;
+}
+.four{
+    width: 32%;
+    float: left;
+    margin-left: 2%;
+}
+.three{
+    width: 23.5%;
+    float: left;
+    margin-left: 2%;
+}
+.two{
+    width: 15%;
+    float: left;
+    margin-left: 2%;
+}
+.one{
+    width: 6.5%;
+    float: left;
+    margin-left: 2%;
+}
+.row{
+    width: 100%;
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    height: 100px;
+    background-color: black;
+}
+.row .two{
+    height: 200px;
+    background-color: black;
+}
+.row1 .c{
+    background-image: url(Images/1.png); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.row2 .c, .row2 .f, .row3 .a, .row3 .b, .row3 .c, .row3 .e, .row3 .f{
+    background-color: white;
+}
+.row1, .row2, .row3{
+    padding-top: 20px;
+}
