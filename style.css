@@ -88,3 +88,7 @@
 .row1, .row2, .row3{
     padding-top: 20px;
 }
+img{
+    height: 100%;
+    width: 100%;
+}
